@@ -1,4 +1,4 @@
-### Spotify Artist Lookup
+# Spotify Artist Lookup
 
 ## A React Native demo project
 
