@@ -1,6 +1,6 @@
-###Spotify Artist Lookup
+### Spotify Artist Lookup
 
-##A React Native demo project
+## A React Native demo project
 
 ```
 To run:
@@ -15,4 +15,4 @@ To run:
     $react-native android
 ```
 
-You will need to install the iOS and/or Android SDK to run the apps.
+**Note:** You will need to install the iOS and/or Android SDK to run the apps.
